@@ -1,0 +1,29 @@
+{
+  "name": "rn-fadein-fadeout-images",
+  "version": "0.0.1",
+  "description": "This component works as fade in and fade out the images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherazraees/rn-fadein-fadeout-images.git"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.63.2"
+  },
+  "keywords": [
+    "fade-in",
+    "fade-out",
+    "carousel",
+    "screen-saver-effect"
+  ],
+  "author": "Sheraz Raees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherazraees/rn-fadein-fadeout-images/issues"
+  },
+  "homepage": "https://github.com/sherazraees/rn-fadein-fadeout-images#readme"
+}
